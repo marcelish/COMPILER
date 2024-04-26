@@ -1,0 +1,10 @@
+CLASS LargestCommonDenominator { 
+	VAR ans, N;
+	CIN = N;
+	FUNCTIONCALL = BURRISFACTORIAL;
+	WHILE N > 1 DO{
+			N = N - 1;
+			ans = ans*N;
+		}
+	PRINT = ans;
+}

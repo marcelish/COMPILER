@@ -1,0 +1,14 @@
+= CIN N T1
+= FUNCTIONCALL BURRISFACTORIAL T1
+exit end: ? ?
+PROCEDURE BURRISFACTORIAL ? ?
+WHILE W1 ? ? ?
+> N LIT1 L1
+DO L1 JLE ?
+- N LIT1 T1
+= N T1 T2
+* ans N T1
+= ans T1 T2
+= PRINT ans T1
+W1 ? ? ?
+L1 ? ? ?
